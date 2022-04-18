@@ -108,6 +108,17 @@
       "twelth_score": "342",
       "tenth_score": "234",
       "id": 10
+    },
+    {
+      "first_name": "akshu",
+      "last_name": "chaduary",
+      "email": "akshu@gmail.com",
+      "gender": "male",
+      "age": "23",
+      "tenth_score": "244",
+      "twelth_score": "242",
+      "preferred_branch": "sports",
+      "id": 11
     }
   ]
 }

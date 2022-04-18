@@ -5,7 +5,7 @@ function App() {
   const [state,setState]=useState("show");
   function handelchange(){
     if(state==="Add"){
-      setState("showstudent")
+      setState("show")
     }
 
     else if(state==="show"){
