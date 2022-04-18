@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./show.css"
 export const AddStudent = () => {
 
   const [form,setForm]=useState([]);

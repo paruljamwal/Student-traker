@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { AddStudent } from "./components/AddStudent";
 import { ShowStudents } from "./components/ShowStudents";
-import "./App.css"
 function App() {
   const [state,setState]=useState("show");
   function handelchange(){

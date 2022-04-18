@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import './show.css'
 export const ShowStudents = () => {
   const [data, setData] = useState([]);
 
